@@ -12,6 +12,10 @@ A secure and scalable voting application backend built with **Node.js**, **Expre
 - **Party and candidate tracking**
 - **RESTful API** with clean architecture
 
+## New Features
+
+**Leaderboard**: Shows all candidates sorted by vote count in descending order (highest votes to lowest), giving users a clear view of current election standings. 
+
 ## Tech Stack
 
 **Backend:** Node.js, Express.js  
